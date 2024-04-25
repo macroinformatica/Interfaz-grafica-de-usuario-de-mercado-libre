@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">EvangelistaSifuentes_Tarea_03_Ejercicio_01</string>
+    <string name="search">Buscar en Mercado Libre</string>
+    <string name="text01">Inspirado en lo último \nque viste</string>
+    <string name="text02">Aspiradora Equipt</string>
+    <string name="text03">Electrolux Eqp20 180...</string>
+    <string name="text04">S/779</string>
+    <string name="text05">12x S/64<sup>92</sup> sin interés</string>
+    <string name="text06">Envío gratis</string>
+
+    <string name="text07">Aspiradora de Tanque</string>
+    <string name="text08">Electrolux Abs01</string>
+    <string name="text09">S/169</string>
+    <string name="text10">48% OFF</string>
+    <string name="text11">12x S/14<sup>08</sup> sin interés</string>
+    <string name="text12">Envío gratis</string>
+
+    <string name="text13">Aspiradora Ciclónica</string>
+    <string name="text14">Electrolux 1000 W Ca...</string>
+    <string name="text15">S/368<sup>90</sup></string>
+    <string name="text16">12x S/30<sup>73</sup> sin interés</string>
+    <string name="text17">Envío gratis</string>
+
+    <string name="text18">Aspiradora Electrolux</string>
+    <string name="text19">Lit31 de Tanque Negra</string>
+    <string name="text20">S/249</string>
+    <string name="text21">44% OFF</string>
+    <string name="text22">12x S/20<sup>75</sup> sin interés</string>
+    <string name="text23">Envío gratis</string>
+
+    <string name="text24">Ver más</string>
+    <string name="text25">Relacionado con tus visitas \nen Juegos y Juguetes</string>
+    <string name="text26">Figura Madara 32cm</string>
+    <string name="text27">De Naruto Importado</string>
+    <string name="text28">Sable Láser Tipo </string>
+    <string name="text29">Star Wars con Luce..</string>
+    <string name="text30">"S/24<sup>90</sup>"</string>
+    <string name="text31">Moto Lineal Ninja A</string>
+    <string name="text32">Bateria Para Niños</string>
+    <string name="text33">Bicicleta - Triciclo -</string>
+    <string name="text34">Convertible 3 en 1</string>
+    <string name="text35">"S/279<sup>90</sup>"</string>
+
+
+
+
+
+</resources>
